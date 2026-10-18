@@ -21,3 +21,11 @@ Actividad 2. clasificar_http.sh
 Actividad 3. tipos_fichero.sh
 Actividad 4. pedir_puerto_valido.sh
 Actividad 5. existe_usuario.sh
+
+Añadida tarea en bash/sesion3_regex/ Sesion 3 regex:
+
+Ejercicio 1. ¿Es un número de puerto?
+Ejercicio 2. Tipos de fichero en /etc
+Ejercicio 3. Usuarios con shell bash
+Ejercicio 4. Nombre de usuario válido
+Ejercicio 5. Configuración sin comentarios
