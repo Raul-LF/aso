@@ -29,3 +29,11 @@ Ejercicio 2. Tipos de fichero en /etc
 Ejercicio 3. Usuarios con shell bash
 Ejercicio 4. Nombre de usuario válido
 Ejercicio 5. Configuración sin comentarios
+
+Añadida tarea en bash/sesion4_regex_extendidas/ Sesion 4 regex extendidas:
+
+Ejercicio 1. Formato de una dirección IP
+Ejercicio 2. Validar una dirección MAC
+Ejercicio 3. Cuentas de correo del centro
+Ejercicio 4. Política de contraseñas
+Ejercicio 5. Tipo de dirección IP
