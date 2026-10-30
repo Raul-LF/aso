@@ -37,3 +37,10 @@ Ejercicio 2. Validar una dirección MAC
 Ejercicio 3. Cuentas de correo del centro
 Ejercicio 4. Política de contraseñas
 Ejercicio 5. Tipo de dirección IP
+
+Añadida tarea en bash/sesion5_sed/ Sesion 5 Sed:
+
+Ejercicio 1. Configuración limpia
+Ejercicio 2. Cambiar el dominio de los correos
+Ejercicio 3. Anonimizar un registro
+Ejercicio 4. Caducidad de las contraseñas
