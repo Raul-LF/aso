@@ -44,3 +44,9 @@ Ejercicio 1. Configuración limpia
 Ejercicio 2. Cambiar el dominio de los correos
 Ejercicio 3. Anonimizar un registro
 Ejercicio 4. Caducidad de las contraseñas
+
+Añadida tarea en bash/sesion6_repaso/ Sesion 6 repaso:
+
+Ejercicio 1. Inventario de cuentas de login
+Ejercicio 2. Copia de seguridad de la configuración
+Ejercicio 3. Gestión de usuarios
