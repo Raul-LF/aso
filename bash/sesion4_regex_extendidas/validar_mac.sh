@@ -11,7 +11,7 @@ if [[ $# -eq 0 ]]; then
 fi
 
 mac=$1
-re='^[0-9A-Fa-f]{2}[:-][0-9A-Fa-f]{2}[:-][0-9A-Fa-f]{2}[:-][0-9A-Fa-f]{2}[:-][0-9A-Fa-f]{2}[:-][0-9A-Fa-f]{2}$'
+re='^(([0-9A-Fa-f]{2}:){5}[0-9A-Fa-f]{2}|([0-9A-Fa-f]{2}-){5}[0-9A-Fa-f]{2})$'
 
 if [[ $mac =~ $re ]]; then
     echo "$mac es una MAC válida"
