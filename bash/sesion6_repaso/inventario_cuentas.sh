@@ -28,7 +28,8 @@ while IFS=':' read -r usuario x uid gid desc home shell; do
        ((total++))
           if [ $uid -ge 1000 ]; then
               ((mayor++))
-        fi
+          fi
+    fi
 done < /etc/passwd
 
 echo "----"

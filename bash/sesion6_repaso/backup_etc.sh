@@ -20,17 +20,17 @@ maximo=${2:-7}
 re='^[0-9]+$'
 
 if [[ ! -d $destino ]]; then
-    echo "Error: el directorio $destino no existe"
+    registrar "Error: el directorio $destino no existe"
     exit 1
 fi
 
 if [[ ! $maximo =~ $re ]]; then
-    echo "Error: $maximo no es un número"
+    registrar "Error: $maximo no es un número"
     exit 1
 fi
 
 if [[ $maximo -le 0 ]]; then
-    echo "Error: el número máximo de copias debe ser mayor que 0"
+    registrar "Error: el número máximo de copias debe ser mayor que 0"
     exit 1
 fi
 
