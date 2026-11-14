@@ -50,3 +50,7 @@ Añadida tarea en bash/sesion6_repaso/ Sesion 6 repaso:
 Ejercicio 1. Inventario de cuentas de login
 Ejercicio 2. Copia de seguridad de la configuración
 Ejercicio 3. Gestión de usuarios
+
+Añadida tarea eb bash/sesion7_procesos/ Sesion 7 procesos:
+
+Práctica. Gestión de procesos
