@@ -54,3 +54,8 @@ Ejercicio 3. Gestión de usuarios
 Añadida tarea eb bash/sesion7_procesos/ Sesion 7 procesos:
 
 Práctica. Gestión de procesos
+
+Añadida tarea en bash/sesion8_remoto/ Sesion 8 remoto:
+
+backup_scp.sh
+backup_rsync.sh
